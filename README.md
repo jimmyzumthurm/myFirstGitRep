@@ -10,3 +10,4 @@ $ git init
 $ git status
 $ ls -al
 ```
+modified dev02
